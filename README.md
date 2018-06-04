@@ -62,6 +62,6 @@ Deploy this API. Note that you'll need to create a remote database, run your mig
 
 ### Notes
 
-* You can test your API locally with `npm test`
+* You can test your API locally with `npm test`.
 
 Add a link to your [deployed API](https://limitless-brushlands-20083.herokuapp.com/resolutions) here.
